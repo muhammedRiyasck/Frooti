@@ -69,6 +69,7 @@ section{
     width: 50%;
     height: 125%;
     background-color:#F09130;
+    margin-top:-4px;
 }
 .BG-img2{
     position: relative;
